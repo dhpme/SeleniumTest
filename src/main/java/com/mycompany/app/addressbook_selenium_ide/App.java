@@ -23,7 +23,7 @@ public class App
 		
 		System.out.println ("Welcome to the demo for Selenium.");
 		
-		driver.get("http://15.207.71.62:8889/");
+		driver.get("http://13.233.39.167:8889/");
 		
 		driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
 		
